@@ -1,4 +1,4 @@
-# Linguistic-Flashcards
+# Flashcards
 A very simple Python project that implements the concept of Flashcards, generally used as aid in retaining information such as words and whatnot
 
 # prerequisite
