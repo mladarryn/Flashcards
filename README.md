@@ -1,5 +1,5 @@
-# Flashcards
-A very simple Python project that implements the concept of Flashcards, generally used as aid in retaining information such as words and whatnot
+# Introduction
+This is a very simple Python project that implements the concept of Flashcards, generally used as aid in retaining information such as words and whatnot
 
 # Prerequisite
 - Python 3.0 or higher
