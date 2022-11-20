@@ -7,4 +7,6 @@ A very simple Python project that implements the concept of Flashcards, generall
 # How to use it?
 - Download the project
 - Run **main.py** file
-**Note** : data/**french_words.csv** can be replaced by any other csv file, accordingly to what you intend to use the project for
+
+# Note
+- data/**french_words.csv** file can be replaced by any other csv file, accordingly to what you intend to use the project for
